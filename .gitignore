@@ -1,0 +1,12 @@
+# Environment variables (contains real device credentials)
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
+
